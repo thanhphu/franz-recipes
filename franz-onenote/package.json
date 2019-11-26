@@ -1,0 +1,17 @@
+{
+  "id": "onenote",
+  "name": "OneNote",
+  "version": "1.0.0",
+  "description": "OneNote",
+  "main": "index.js",
+  "author": "ThatGuyInIT@Github",
+  "license": "MIT",
+  "repository": "https://github.com/ThatGuyinIT/recipe-franz-onenote",
+  "config": {	
+    "serviceURL": "https://onedrive.live.com/Edit.aspx?resid=4B7B0446B8482D57!468&wd=target(Self-People.one%7C15767d86-57a5-4173-85d2-abfa8c04adbc/Two%20good%20things%20everyday%20-%202019%7C8a25b1f3-a1f6-f449-bb5a-341c0daec157/)",
+    "hasNotificationSound": false,
+    "hasDirectMessages": false,
+    "hasIndirectMessages": false,
+    "hasTeamId": false
+  }
+}
